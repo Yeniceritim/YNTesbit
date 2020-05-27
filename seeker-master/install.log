@@ -1,0 +1,6 @@
+Aynı:  1 http://kali.download/kali kali-rolling InRelease
+Paket listeleri okunuyor...
+E: dpkg kesintiye uğradı, sorunu düzeltmek için elle 'dpkg --configure -a' komutunu çalıştırın. 
+E: dpkg kesintiye uğradı, sorunu düzeltmek için elle 'dpkg --configure -a' komutunu çalıştırın. 
+E: dpkg kesintiye uğradı, sorunu düzeltmek için elle 'dpkg --configure -a' komutunu çalıştırın. 
+./install.sh: satır 12: pip3: komut yok
